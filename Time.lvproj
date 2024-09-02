@@ -48,7 +48,6 @@
 		<Item Name="Example" Type="Folder">
 			<Item Name="Timer Example.vi" Type="VI" URL="../Example/Timer Example.vi"/>
 		</Item>
-		<Item Name="Untitled 3.vi" Type="VI" URL="/C/Users/Administrator/Desktop/Untitled 3.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
